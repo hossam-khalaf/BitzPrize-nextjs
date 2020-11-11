@@ -5,7 +5,7 @@ const Navbar = () => (
     <nav className='navbar navbar-expand navbar-dark bg-light mb4'>
       <div className='container'>
         <a href='#' className='navbar-brand'>
-          BitsPrize
+          BitcoinPrice
         </a>
         <div className='collapse navbar-collapse'>
           <ul className='navbar-nav ml-auto'>
